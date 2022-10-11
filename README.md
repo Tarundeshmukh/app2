@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ### Learning and Building 
 [Reference](https://angular.io/tutorial/toh-pt0)
+
+To get understanding of concepts of angular and using docs as my mentor.
